@@ -1,6 +1,6 @@
 # BFOP
 
-![BFOP](https://i.imgur.com/xxxxxxxx.jpg)
+![BFOP](https://www.reddit.com/r/olkb/comments/u8sctz/my_melody_96_is_a_little_different/#lightbox)
 
 BFOP (Big "Fun" Ortho PCB) is an ortholinear PCB designed to fit in the Melody96 by YMDK. 
 
